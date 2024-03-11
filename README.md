@@ -1,4 +1,6 @@
 # Minerando Textos no Terminal
+Atividade prática do curso de Introdução à Computação.
+
 Usando sed e outras ferramentas do terminal, o aluno deve manipular e minerar arquivos de texto, além de se familiarizar com o uso de regex e paths.
 
 ## Descrição
